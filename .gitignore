@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+out/
+obj/
+bin/
+Debug/
+Release/
+x64/
+.vs/
+packages/
+.idea/
+*.user
+*.exe
